@@ -1,0 +1,14 @@
+.main-half {
+    height: 100vh;
+    width: 100%;}
+.main-img{
+    height: 100vh;
+    width: 1220px;
+    background-image: url(../image/img1.png);
+    display: flex;
+    border: 2px solid red;
+}
+.main-info{
+    width:870px ;
+    height:100vh ;
+}
